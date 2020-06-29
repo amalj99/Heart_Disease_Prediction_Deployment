@@ -1,2 +1,2 @@
-# Heart_Disease_Prediction_Deployment
+# Heart Disease Prediction Deployment
 Repo contains heart disease prediction model creation notebook and deployment using Streamlit and Heroku.
