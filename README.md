@@ -8,11 +8,13 @@ Our objective is to:
 
 ## Code and Resources used
 * Python Version: 3.7
-* Packages used: Sklearn, Pandas, Numpy, Matplotlib, Seaborn
-* Data: https://www.kaggle.com/fernandol/countries-of-the-world
+* Packages used: Sklearn, Pandas, Numpy, Matplotlib, Pickle and Streamlit.
+* Data: https://www.kaggle.com/ronitf/heart-disease-uci
 
 * The web application is created using the ***Streamlit*** library and deployed using the ***Heroku*** platform.
 
 * The application can be viewed at the link mentioned below.
 Link: https://heart-disease-predi.herokuapp.com/
+
+
 
