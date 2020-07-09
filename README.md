@@ -11,10 +11,14 @@ Our objective is to:
 * Packages used: Sklearn, Pandas, Numpy, Matplotlib, Pickle and Streamlit.
 * Data: https://www.kaggle.com/ronitf/heart-disease-uci
 
+## Deployment
 * The web application is created using the ***Streamlit*** library and deployed using the ***Heroku*** platform.
 
 * The application can be viewed at the link mentioned below.
+
 Link: https://heart-disease-predi.herokuapp.com/
+
+
 
 
 
